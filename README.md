@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! I'm Sourav Kumar (@saurav255)</h1>
+<h1 align="center">👋 Hey there! I'm Saurav Kumar (@saurav255)</h1>
 <p align="center">
   <img src="https://github.com/saurav255/saurav255/blob/main/animated-header.gif" alt="animated-header" width="100%" height="300px">
 </p>
